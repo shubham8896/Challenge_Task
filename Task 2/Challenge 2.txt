@@ -1,1 +1,1 @@
-az vm get-instance-view -g resourcegroup -n vm --output json
+Powershell code- az vm get-instance-view -g resourcegroup -n vm --output json
